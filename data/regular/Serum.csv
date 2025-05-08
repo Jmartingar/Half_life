@@ -1,0 +1,330 @@
+sequence,half_life_seconds,is_mod,modifications,experimental_characteristics
+AC-GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY-NH2,3600.0,False,,rat
+AC-WEEWDREINNYTKLIHELIEESQNQQEKNEQELL-NH2,6012.0,False,,rat
+AC-WEEWDREINNYTKLIHELIEESQNQQEKNEQELL-NH2,41040.0,False,,monkey
+AC-GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK-NH2,14400.0,False,,human serum
+AC-IWIAQELRRIGDEFNAYYARR-NH2,3899.9999999999995,False,,Asp-N
+AC-IWIAQELRXIGDXFNAYYARR-NH2,3120.0,False,,Asp-N
+AC-FMHNLWKHLSSMERVEWLRKKLQDVHNF-NH2,24.0,False,,trypsin
+AC-NSGLSFEELYRNAYTMVLHL-NH2,25200.0,False,,human serum
+KIKIPWGKVKDFLVGGMKAV-NH2,54000.0,False,,human serum
+CENTISGCSRADCLLYHRKQGCQKTCGLC,10800.0,False,,trypsin
+CENTISGCSRADCLLTHRKYGCQKTCGLC,57600.0,False,,trypsin
+CENTISGCSRADCLLTHRKQGCQKTCGYC,7200.0,False,,trypsin
+AC-Y-E9-X-PLGLAG-R9-X-K-(DOTA)-NH2,1584.0,False,,mouse
+VEPNCDIHVILEWEWECFERL-NH2,96.0,False,,proteinase K
+AC-AAQLRRIGDKVNLRQKLLN,245.99999999999997,False,,chymotrypsin
+AC-AAQLRRIGDKVNLRQKLLN,132.0,False,,trypsin
+AC-AAQLRRIGDKVNLRQKLLN,630.0,False,,mouse serum
+AC-AAC’LRAIGDC’VNLAQALLN,2130.0,False,,chymotrypsin
+AC-AAC’LRAIGDC’VNLAQALLN,1949.9999999999998,False,,trypsin
+AC-AAC’LRAIGDC’VNLAQALLN,1896.0000000000002,False,,mouse serum
+MDYKDDDDKGSGSTLDDMEEMDGLSDT,21600.0,False,,human serum
+CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-OH,144.0,False,,liver homogenates
+(VRLPPP)3,55440.0,False,,human serum
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-TAMRA,88920.0,False,,human plasma
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-TAMRA,39600.0,False,,liver homogenates
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,489600.0,False,,human plasma
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,70920.0,False,,liver homogenates
+AC-LLLLRVKR-NH2,18000.0,False,,mouse plasma
+AC-LLLLRVKR-NH2,32400.0,False,,mouse plasma
+GLURPRLSHKGPMPF,846.0,False,,rat
+CGMKRTRGC,14400.0,False,,human serum
+KWVRWIKQVONG,420.0,False,,chymotrypsin
+KWVRWIKQVONG,300.0,False,,trypsin
+KWVRWIKQVONG,300.0,False,,pronase
+KWVRWIKQVONG,2160.0,False,,chymotrypsin
+KWVRWIKQVONG,1380.0,False,,trypsin
+KWVRWIKQVONG,360.0,False,,pronase
+RWVKVPGOFIKQ,18000.0,False,,chymotrypsin
+RWVKVPGOFIKQ,1380.0,False,,trypsin
+RWVKVPGOFIKQ,1260.0,False,,pronase
+RWVKVNGOWIKQ,11880.0,False,,chymotrypsin
+RWVKVNGOWIKQ,2160.0,False,,trypsin
+RWVKVNGOWIKQ,1200.0,False,,pronase
+RWVKVPGOWIKQ,18000.0,False,,chymotrypsin
+RWVKVPGOWIKQ,3840.0,False,,trypsin
+RWVKVPGOWIKQ,3060.0,False,,pronase
+RWVWVNGOKILQ,7020.0,False,,trypsin
+RWVWVNGOKILQ,1800.0,False,,pronase
+VSADPSRVNAYKSADSRVNST,480.0,False,,human serum
+GGFSFRF-NH2,671.9999999999999,False,,human serum
+G(ME)GFSFRF-NH2,3173.9999999999995,False,,human serum
+G(ME)GFSFRF-NH2,3150.0,False,,human serum
+GG(ME)FSFRF-NH2,1686.0000000000002,False,,human serum
+GG(ME)FSFRF-NH2,1146.0,False,,human serum
+IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,13980.0,False,,trypsin
+IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,11760.0,False,,proteinase K
+LAEAKGVSAKTALP,1380.0,False,,trypsin
+SCKNTDSRCKARQLELNERTCRCDKPRR,300.0,False,,human plasma
+CQGTSNKLTQLGTFEDHFLSLQRMFNNC,5340.0,False,,human serum
+MFYAYEYAQWSK,1260.0,False,,chymotrypsin
+MFYAYEYAQWSK,168000.0,False,,proteinase K
+MFYAYEYAQWSK,1020.0,False,,human serum
+MFYAYEYAQWSK,3660.0,False,,mouse serum
+MITWYEFVAGTK,18.0,False,,chymotrypsin
+MITWYEFVAGTK,480.0,False,,human serum
+VDNKFNKEQCNARAIEAALDPNLNDQQFHAKIWSIIDDC-NH2,14.4,False,,proteinase K
+YPFF-NH2,360.0,False,,human serum
+ΒAGLRKRLRKFRNKIEK-NH2,30600.0,False,,rat
+ΒAGLRKRLRKFRNKIEK-NH2,31319.999999999996,False,,rat
+ΒAGLRK[Β(A)2-NIA]RLRKFRNK[Β(A)2-NIA]IEK-NH2,39960.0,False,,rat
+ΒAGLRK[Β(A)2-NIA]RLRKFRNK[Β(A)2-NIA]IEK-NH2,28800.0,False,,rat
+HSDAVFTDNYTRLRK-QMAVKKYLNSILN,1800.0,False,,trypsin
+AC-YKKK(AHX)ARHYINLITRQRY,3600.0,False,,human serum
+AC-(AHX)ARHYINLITRQRY,3600.0,False,,human serum
+AC-KKKKPYIL,7200.0,False,,human serum
+RKKYKYRRK-NH2,2700.0,False,,human plasma
+GFGMALKLLKKVL-NH2,57600.0,False,,human serum
+TRSSRAGLQFPVGRVHRLLRK,300.0,False,,human serum
+RWCVYARVRGVRYRRCW,14400.0,False,,human serum
+RWCVYACVRGVCYRRCW,86400.0,False,,human serum
+GRKKRRQRRRPWQ-NH2,120.0,False,,trypsin
+(GRKKRRQRRRPWQC-NH2)2,120.0,False,,trypsin
+(GRKKRRQRRRPWQ)2-K-NH2,120.0,False,,trypsin
+BLGTYTQDFNXFHTFPQTAIGVGAP,9360.0,False,,pepsin
+BLGTYTQDFNXFHTFPQTAIGVGAP,10080.0,False,,human serum
+AC-HARIKPTFRRLKWKYKGKFW,28800.0,False,,mouse
+AC-HARIKPTFRRLKWKYKGKFW,1332.0,False,,mouse serum
+AC-SYSMEHFRWGKPV-NH2,60.0,False,,mouse
+QGLNPYNLEDL-NH2,1200.0,False,,enzymes
+YRFK-NH2,22200.0,False,,trypsin
+ATWLPPR,85320.0,False,,mouse
+PGHWSYGLRPG-VKRFKKFFRKLKKSV-NH2,1800.0,False,,rat plasma
+QHWSWGLRPG-VKRFKKFFRKLKKSV-NH2,1800.0,False,,rat plasma
+PGHWSYWLRPG-VKRFKKFFRKLKKSV-NH2,5400.0,False,,rat plasma
+KKLFKKILKYL-NH2,1200.0,False,,rat plasma
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,156.0,False,,human serum
+YPWF-NH2,162.00000000000003,False,,human plasma
+MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,50400.0,False,,mouse
+HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,2460.0,False,,rat
+HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,4080.0,False,,rat
+KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF,4260.0,False,,human serum
+KRFKKFFKKVKKSV,1260.0,False,,human serum
+KKRLKKIFKKPMVIGVTIPF,46200.0,False,,human serum
+ACI NTWNPWCIIPWDAPLCIIIA,86400.0,False,,human vitreous
+ACI NTWNPWCIIPWDAPLCIIIA,86400.0,False,,mouse plasma
+ACI NTWNPWCIIPWDAPLCIIIA,86400.0,False,,rat plasma
+ACI NTWNPWCIIPWDAPLCIIIA,86400.0,False,,human plasma
+ACI NTWNPWCIIPWDAPLCIIIA,280800.0,False,,rat
+CF-APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,180000.0,False,,human plasma
+CF-APLEPVYPGDNAKPEQMAQYAADLRRYINMLTRQRY-NH2,180000.0,False,,human plasma
+AC-WEEWDREINNYTK(ALB)LIHELIEESQNQQEKNEQELL-NH2,92880.0,True,Albumin,rat
+AC-WEEWDREINNYTK(ALB)LIHELIEESQNQQEKNEQELL-NH2,368640.0,True,Albumin,monkey
+(PEG)2-KWKLFKKIFKRIVQRIKDFLR-NH2,3600.0,True,PEGylation,rat
+DABTDABDABDABLLDABDABT,5760.0,True,Cyclization,rat
+DABTDABDABDABLLDABDABT,2070.0,True,Cyclization,mouse
+N.A.,10800.0,True,Cyclization/Methylation,mouse
+AC-KLKLKLKLKLKLKLKLKKLKKLKKLKKLKKLKKLKKL-NH2,64800.0,True,Branched,human serum
+AC-IWIAQELRXIGDXFNAYYARR-NH2,56880.0,True,Stapled,Asp-N
+AC-FMHNLWKWLSSMERVEWLRKKLQDVHNF-NH2,5400.0,True,α to β replacement,trypsin
+AC-YGGF-HIC-NH2,198.0,True,Hydroxy isocaproic acid,human serum
+AC-YGGFL-NH2,641.9999999999999,True,Methylation,human serum
+MITWIDFISPSK,156.0,True,Cyclization,chymotrypsin
+MITWIDFISPSK,19.8,True,Cyclization,human serum
+MTWFEYLSGSK,5400.0,True,Cyclization,chymotrypsin
+MTWFEFLSSTSK,5400.0,True,Cyclization,chymotrypsin
+MTWFEFLSSTSK,462.0,True,Cyclization,human serum
+MITWYEFVAGTK,1560.0,True,Cyclization,chymotrypsin
+MITWYEFVAGTK,1680.0,True,Cyclization,human serum
+AC-NSGLSFEES5YRNS5YTMVLHK-NH2,79200.0,True,Unnatural amino acid,human serum
+AC-NSGLSFES5LYRS5AYTMVLHK-NH2,79200.0,True,Unnatural amino acid,human serum
+AC-NSGLS5FEES5YRNAYTMVLHK-NH2,25200.0,True,Unnatural amino acid,human serum
+HYNIC-DDWAVGHDF-NHME,600.0,True,Methylation,mouse
+HYNIC-DDWAVGHDY-NHME,900.0,True,Methylation,mouse
+LLLLPY,21600.0,True,Cyclization/Methylation,human plasma
+LLLLPY,10080.0,True,Cyclization/Methylation,rat
+LL(ME)LLPY,21600.0,True,Cyclization/Methylation,human plasma
+LL(ME)LLPY,21600.0,True,Cyclization/Methylation,rat
+AC-[CMPRLRGC]C-NH2,4176.0,True,Cyclization,mouse plasma
+AC-[CMPRLRGC]C-NH2,10908.0,True,Cyclization,mouse plasma
+AC-[D-“PEN”M“THZ”RLRGC]C-NH2,6804.0,True,Cyclization/D-amino acid/Propionylation,mouse plasma
+PR-[CM“THZ”RLRG“PEN”]C-NH2,15371.999999999998,True,Cyclization/Propionylation,mouse plasma
+PR-[CM“THZ”RLR“SAR”“PEN”]C-NH2,15659.999999999998,True,Cyclization/Propionylation,mouse plasma
+PR-[CM“PIP”RLR“SAR”C]C-NH2,23976.0,True,Cyclization/Propionylation,mouse plasma
+PR-[CM“PIP”RLRG“PEN”]C-NH2,14508.0,True,Cyclization/Propionylation,mouse plasma
+PR-[CM“PIP”RLR“SAR”“PEN”]C-NH2,36000.0,True,Cyclization/Propionylation,mouse plasma
+AC-HPCDYPEWQWLCELG-PEG4-K-NH2,11880.0,True,PEGylation/Lipidation,rat
+AC-HPCDYPEWQWLCELG-PEG4-K-NH2,19440.0,True,PEGylation/Lipidation,rat
+AC-HPCDYPEWQWLCELG-PEG4-K-NH2,26640.0,True,PEGylation/Lipidation,monkey
+AC-HPCDYPEWQWLCELG-PEG4-K-NH2,67680.0,True,PEGylation/Lipidation,monkey
+AC-Y-E9-X-PLGLAG-R9-X-K-(DOTA)-NH2,7068.0,True,Albumin,mouse
+VΒEPΒNCDIHVILEWΒEWECFERΒL-NH2,1440.0,True,β-peptide,proteinase K
+ΒVEΒPNCDIHVILEΒWEWΒECFERΒL-NH2,18000.0,True,β-peptide,proteinase K
+MOC-AMAMC’LRAIGDC’VNLAQALLN,1782.0,True,Methylation,chymotrypsin
+MOC-AMAMC’LRAIGDC’VNLAQALLN,1176.0000000000002,True,Methylation,trypsin
+MOC-AMAMC’LRAIGDC’VNLAQALLN,1272.0,True,Methylation,mouse serum
+RRRRR5RRRRRRS8,186.0,True,Stapled,trypsin
+S5RRRB5RRRRRRS8,3840.0,True,Stitched,trypsin
+MDYKDDDDKGSGSTLDD(O2BEY)EEMDGCSDT,21600.0,True,Cyclization,human serum
+MDYKDDDDKGSGSTLDW(O2BEY)EEMDMCTDT,21600.0,True,Cyclization,human serum
+MDYKDDDDKGSGSTLSW(O2BEY)EAMDMCTDT,21600.0,True,Cyclization,human serum
+CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-FA,954.0,True,Lipidation,liver homogenates
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,111600.0,True,X-amide,human plasma
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,12240.0,True,X-ester,human plasma
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,2520.0,True,X-disulfide,human plasma
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,205200.0,True,X-enzymatic,human plasma
+LF(ME)PLA(ME)LF(ME)PLA(ME),153360.0,True,Cyclization/Methylation,rat
+LT(ME)PLA(ME)LT(ME)PLA(ME),6840.0,True,Cyclization/Methylation,rat
+LPYRA(ME)PLA(ME)LPYRA(ME)PLA(ME),8640.0,True,Cyclization/Methylation,rat
+LPYRAPLA(ME)LPYRAPLA(ME),4680.0,True,Cyclization/Methylation,rat
+LY(ME)PLA(ME)LY(ME)PLA(ME),14400.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LPYRAPLA(ME),21960.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LPYRAPLA(ME),288.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LT(ME)PLA(ME),16200.0,True,Cyclization/Methylation,rat
+LF(ME)PLG(ME)LF(ME)PLG(ME),20880.0,True,Cyclization/Methylation,rat
+LF(ME)PGL(ME)LF(ME)PGL(ME),17280.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LF(ME)PGL(ME),15480.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LF(ME)PLD(ME),9000.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LF(ME)PLK(ME),21960.0,True,Cyclization/Methylation,rat
+LF(ME)PLA(ME)LF(ME)PLT(ME),99360.0,True,Cyclization/Methylation,rat
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,1571760.0,True,Lipidation,human plasma
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,168120.0,True,Lipidation,liver homogenates
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,1012680.0,True,Lipidation,human plasma
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,52560.0,True,Lipidation,liver homogenates
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,3917159.9999999995,True,Lipidation,human plasma
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,42480.0,True,Lipidation,liver homogenates
+AC-[PEG8]LLLLRVKR-NH2,14400.0,True,PEGylation,mouse plasma
+AC-[C8]LLLLRVKR-NH2,18000.0,True,Lipidation,mouse plasma
+AC-[PEG8]LLLLRVKR-NH2,32400.0,True,PEGylation,mouse plasma
+AC-[C8]LLLLRVKR-NH2,14400.0,True,Lipidation,mouse plasma
+AC-LLLLRVK[AMBA],43200.0,True,Unnatural amino acid,mouse plasma
+AC-[PEG8]LLLLRVK[AMBA],36000.0,True,PEGylation,mouse plasma
+AC-LLLLRVK[AMBA],64800.0,True,Lipidation,mouse plasma
+AC-[C8]LLLLRVK[AMBA],36000.0,True,Lipidation/Unnatural amino acid,mouse plasma
+GLURPRLSHKGPNLEPF,942.0,True,Unnatural amino acid,rat
+GLURPRFSHKGPNLEPF,996.0,True,Unnatural amino acid,rat
+GLURPRCHASHKGPNLEPF,1338.0000000000002,True,Unnatural amino acid,rat
+GLURPRKSHKGPNLEPF,546.0,True,Unnatural amino acid,rat
+GLURPRESHKGPNLEPF,2100.0,True,Unnatural amino acid,rat
+GLURPRDLSHKGPMPF,3120.0,True,D-amino acid,rat
+GLURPRLDSHKGPMPF,2700.0,True,D-amino acid,rat
+GLURPRLSHKGPNLEPY(OBN),3960.0000000000005,True,Unnatural amino acid,rat
+GLURPRLSHKGPNLEP(L-A-ME)F,7200.0,True,Unnatural amino acid,rat
+GLURPRLSHKGPNLEPBPA,3300.0,True,Unnatural amino acid,rat
+GLURPRLSHKGPNLEPF(4-ME),2580.0,True,Methylation,rat
+GLURPRLSHKGPMPDF,780.0,True,D-amino acid,rat
+C[CGNKRTRGC]RGDS,86400.0,True,Cyclization,human serum
+CGNKRTRGCRCVCRRGDSCRCV,86400.0,True,Cyclization,human serum
+CGNKRTRGCRCVCRGDSCR,86400.0,True,Cyclization,human serum
+VSADPSAVNAYKSADSRVNST,210.0,True,Amino acid substitution,human serum
+VSADPSRANAYKSADSRVNST,960.0,True,Amino acid substitution,human serum
+VSADPSRVAAYKSADSRVNST,462.0,True,Amino acid substitution,human serum
+VSADPSRVNAAKSADSRVNST,432000.0,True,Amino acid substitution,human serum
+VSADPSRVNAYASADSRVNST,300.0,True,Amino acid substitution,human serum
+VSADPSRVNAYKAADSRVNST,540.0,True,Amino acid substitution,human serum
+VSADPSDRVNAYKSADSRVNST,600.0,True,D-amino acid,human serum
+VSADPSRDVNAYKSADSRVNST,32400.0,True,D-amino acid,human serum
+VSADPSRVDNAYKSADSRVNST,13680.0,True,D-amino acid,human serum
+VSADPSRVNDAYKSADSRVNST,432000.0,True,D-amino acid,human serum
+VSADPSRVNADYKSADSRVNST,154800.0,True,D-amino acid,human serum
+VSADPSRVNAYDKSADSRVNST,8280.0,True,D-amino acid,human serum
+VSADPSRVNAYKDSADSRVNST,6480.0,True,D-amino acid,human serum
+VSADPSRVNAYKSDADSRVNST,636.0,True,D-amino acid,human serum
+VSADPSR(ME)VNAYKSADSRVNST,600.0,True,Methylation,human serum
+VSADPSRV(ME)NAYKSADSRVNST,1440.0,True,Methylation,human serum
+VSADPSRVN(ME)AYKSADSRVNST,2280.0,True,Methylation,human serum
+VSADPSRVNA(ME)YKSADSRVNST,504.00000000000006,True,Methylation,human serum
+VSADPSRVNAY(ME)KSADSRVNST,432000.0,True,Methylation,human serum
+VSADPSRVNAYK(ME)SADSRVNST,43200.0,True,Methylation,human serum
+VSADPSRVNAYKS(ME)ADSRVNST,5760.0,True,Methylation,human serum
+VSADPSRVNAYKSA(ME)DSRVNST,600.0,True,Methylation,human serum
+VSADPSΒRVNAYKSADSRVNST,402.0,True,α-helix,human serum
+S(ΒDGLC) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,10560.0,True,Glycosylation,trypsin
+S(ΒDGLC) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,10080.0,True,Glycosylation,proteinase K
+IKPEAPGEDAS(ΒDGLC)PEELNRYYASLRHYLNLVTRQRY-NH2,9180.0,True,Glycosylation,trypsin
+IKPEAPGEDAS(ΒDGLC)PEELNRYYASLRHYLNLVTRQRY-NH2,12840.0,True,Glycosylation,proteinase K
+IKPEAPGEDASPEELS(ΒDGLC)RYYASLRHYLNLVTRQRY-NH2,11280.0,True,Glycosylation,trypsin
+IKPEAPGEDASPEELS(ΒDGLC)RYYASLRHYLNLVTRQRY-NH2,12360.0,True,Glycosylation,proteinase K
+IKPEAPGEDASPEELNRYYS(ΒDGLC)SLRHYLNLVTRQRY-NH2,10080.0,True,Glycosylation,trypsin
+IKPEAPGEDASPEELNRYYS(ΒDGLC)SLRHYLNLVTRQRY-NH2,9060.0,True,Glycosylation,proteinase K
+IKPEAPGEDASPEELNRYYAS(ΒDGLC)LRHYLNLVTRQRY-NH2,10560.0,True,Glycosylation,trypsin
+IKPEAPGEDASPEELNRYYAS(ΒDGLC)LRHYLNLVTRQRY-NH2,16260.0,True,Glycosylation,proteinase K
+IKPEAPGEDASPEELNRY(ΒDGLC)YASLRHYLNLVTRQRY-NH2,16140.0,True,Glycosylation,trypsin
+IKPEAPGEDASPEELNRY(ΒDGLC)YASLRHYLNLVTRQRY-NH2,13860.0,True,Glycosylation,proteinase K
+IKPEAPS(ΒDGAL) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,13020.0,True,Glycosylation,trypsin
+IKPEAPS(ΒDGAL) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,10260.0,True,Glycosylation,proteinase K
+IKPEAPSEDAS(ΒDGAL) PEELNRYYASLRHYLNLVTRQRY-NH2,9240.0,True,Glycosylation,trypsin
+IKPEAPSEDAS(ΒDGAL) PEELNRYYASLRHYLNLVTRQRY-NH2,12000.0,True,Glycosylation,proteinase K
+IKPEAPSEDASPEELNRYYAS(ΒDGAL) LRHYLNLVTRQRY-NH2,9000.0,True,Glycosylation,proteinase K
+IKPEAPSEDASPEELNRY(ΒDGAL) YASLRHYLNLVTRQRY-NH2,11820.0,True,Glycosylation,trypsin
+IKPEAPSEDASPEELNRY(ΒDGAL) YASLRHYLNLVTRQRY-NH2,11280.0,True,Glycosylation,Proteinase K
+IKPEAPSEDASPEELNRYY(ΒDGAL) ASLRHYLNLVTRQRY-NH2,13500.0,True,Glycosylation,trypsin
+IKPEAPSEDASPEELNRYY(ΒDGAL) ASLRHYLNLVTRQRY-NH2,12600.0,True,Glycosylation,trypsin
+LAEAKGCSAKTAKP,60.0,True,Amino acid substitution ,trypsin
+ACYL-SCKNTDSRCKARQLELNERTCRCDKPRR,300.0,True,Acylation,human plasma
+WMEWDREINN(GLC)YTSLIHSLIEESQNQQEKNEQELL-NH2,14400.0,True,Glycosylation,trypsin
+MFYAYEYAQWSK,23640.0,True,Cyclization,chymotrypsin
+MFYAYEYAQWSK,318000.0,True,Cyclization,proteinase K
+MFYAYEYAQWSK,582000.0,True,Cyclization,human serum
+MFYAYEYAQWSK,6900.0,True,Cyclization,mouse serum
+MITWYEFVAGTK,60.0,True,Cyclization,chymotrypsin
+MITWYEFVAGTK,60.0,True,Cyclization,proteinase K
+MITWYEFVAGTK,7200.0,True,Cyclization,human serum
+MITWYEFVAGTK,180.0,True,Cyclization,mouse serum
+VDNKFNKEXCNXRAIEAALDPNLNDQQFHAKIWXIIUDCG-NH2,4080.0,True,α/β peptide,proteinase K
+KRIVQRIKDFLR,300.0,True,Amino acid substitution,human serum
+KRIVQAIKDFLR,120.0,True,Amino acid substitution,human serum
+KRIVQKIKDFLR,90.0,True,Amino acid substitution,human serum
+KRIVQRIKDFLA,90.0,True,Amino acid substitution,human serum
+KRIVQRIKDFLK,90.0,True,Amino acid substitution,human serum
+YPFP-NH2,1590.0,True,Unnatural amino acid,human serum
+YPFCAMP-NH2,900.0,True,Unnatural amino acid,human serum
+YCAAMPFP-NH2,822.0,True,Unnatural amino acid,human serum
+YCAMPFCAMP-NH2,1050.0,True,Unnatural amino acid,human serum
+HSDAVFTDNYT(ΒGAL)RLRK-QMAVKKYLNSILN,2700.0,True,Glycosylation,trypsin
+AC-YKK(KP)(AHX)ARHYINLITRQRY,10800.0,True,Unnatural amino acid,human serum
+AC-K(KP)KKPYIL,10800.0,True,Unnatural amino acid,human serum
+R(ME)KKYKYRDRK-NH2,32400.0,True,D-amino acid/Methylation,human plasma
+R(ME)KKYKYRRKPGP-OH,21600.0,True,Methylation,human plasma
+R(NO2)KKYKYRRK-NH2,7200.0,True,Nitro group,human plasma
+R(CH2NH)KKYKYRDRK-NH2,32400.0,True,Pseudopeptide bond,human plasma
+R(CH2NH)KKYKYRRKPGP-OH,21600.0,True,Pseudopeptide bond,human plasma
+C[RKKYKYRRK],43200.0,True,Cyclization,human plasma
+GDGDMDADLDKDLDLDKDKDVDL-NH2,86400.0,True,D-amino acid,human serum
+GDFGMALKLLKKVL-NH2,86400.0,True,D-amino acid,human serum
+GFDKMALKLLKKVL-NH2,3600.0,True,D-amino acid/Amino acid substitution,human serum
+GFGMALOLLOOVL-NH2,21600.0,True,Amino acid substitution,human serum
+DAFGMALKLLKKVL-NH2,86400.0,True,D-amino acid/Amino acid substitution,human serum
+DAFKMALKLLKKVL-NH2,86400.0,True,D-amino acid/Amino acid substitution,human serum
+DADFKMALKLLKKVL-NH2,28800.0,True,D-amino acid/Amino acid substitution,human serum
+C[BLGTYTQDFNXFHTFPQTAIGVGAP],46440.0,True,Cyclization,pepsin
+C[BLGTYTQDFNXFHTFPQTAIGVGAP],19860.0,True,Cyclization,human serum
+"H-KKWB2,2WKK-NH2",86400.0,True,Unnatural amino acid,trypsin
+AC-VPKGWRFHEMSYS-NH2,172800.0,True,Retro-peptide,mouse
+TTP3-YRFK-NH2,2760.0,True,Amino acid substitution,trypsin
+TPP6-YRFK-NH2,4200.0,True,Amino acid substitution,trypsin
+YDRFK-NH2,52740.0,True,D-amino acid,trypsin
+PEG-LVPRLVPR HBEGTFTSDVSSYLEGQAAKEFIAWLVKBRNH2,45360.0,True,PEGylation,mouse serum
+PEG-LVPR- HBEGTFTSDVSSYLEGQAAKEFIAWLVKBRNH2,288000.0,True,PEGylation,mouse serum
+PEG-LDPR- HBEGTFTSDVSSYLEGQAAKEFIAWLVKBRNH2,275040.0,True,PEGylation,mouse serum
+PEG-LVPRLVPR-KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,26640.0,True,PEGylation,mouse serum
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,42480.0,True,PEGylation,mouse serum
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,38160.0,True,PEGylation,mouse serum
+PEG-LVPRLVPR KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,18000.0,True,PEGylation,mouse serum
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,23760.0,True,PEGylation,mouse serum
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,32400.0,True,PEGylation,mouse serum
+ATWLPPR,79920.0,True,Cyclization,mouse
+C16H31O-KKLFKKILKYL-NH2,7200.0,True,Lipidation,rat plasma
+C16H31O-GGKKLFKKILKYL-NH2,7200.0,True,Lipidation,rat plasma
+SLRRSSCFGGRMDRIGAQSGLGCNSFRYRITAREDKQGWA,270.0,True,frameshit,human serum
+GLU-YPFF-NH2,3438.0,True,Glycosylation,human plasma
+C[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],39600.0,True,Cyclization,mouse
+L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,3000.0,True,Lipidation,rat
+L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,4320.0,True,Lipidation,rat
+ACETYL-CIS1W2P3A4R5CIIL6H7Q8D9L10CIII,86400.0,True,Amino acid substitution,human vitreous
+ACETYL-CIS1W2P3A4R5CIIL6H7Q8D9L10CIII,86400.0,True,Amino acid substitution,mouse plasma
+ACETYL-CIS1W2P3A4R5CIIL6H7Q8D9L10CIII,86400.0,True,Amino acid substitution,rat plasma
+ACETYL-CIS1W2P3A4R5CIIL6H7Q8D9L10CIII,86400.0,True,Amino acid substitution,human plasma
+ACETYL-CIS1W2P3A4R5CIIL6H7Q8D9L10CIII,172800.0,True,Amino acid substitution,rat
+ACETYL-CIS1F2AZE3Y4R5CIIALA(ME)6H7Q8D9L10CIII,86400.0,True,Amino acid substitution/Methylation,human vitreous
+ACETYL-CIS1F2AZE3Y4R5CIIALA(ME)6H7Q8D9L10CIII,5400.0,True,Amino acid substitution/Methylation,mouse plasma
+ACETYL-CIS1F2AZE3Y4R5CIIALA(ME)6H7Q8D9L10CIII,10080.0,True,Amino acid substitution/Methylation,rat plasma
+ACETYL-CIS1F2AZE3Y4R5CIIALA(ME)6H7Q8D9L10CIII,25200.0,True,Amino acid substitution/Methylation,human plasma
+C[XRPRX]CSHKGPNLEPF,2880.0,True,Cyclization/Unnatural amino acid,human serum
+PYRC[RXPRLX]CHKGPNLEPF,7920.000000000001,True,Cyclization/Unnatural amino acid,human serum
+PYRRC[XRLSX]CKGPNLEPF,14040.0,True,Cyclization/Unnatural amino acid,human serum
+PYRRPC[RXLSHX]CGPNLEPF,27720.0,True,Cyclization/Unnatural amino acid,human serum
+PYRRPRLSC[XKGPX]CPF,23760.0,True,Cyclization,human serum
+PYRRPRLSHC[XGPNLEX]CF,16560.0,True,Cyclization/Unnatural amino acid,human serum
+PYRRPRLSHKC[XPNLEPX]C,30960.0,True,Cyclization/Unnatural amino acid,human serum

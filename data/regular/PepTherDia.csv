@@ -1,0 +1,43 @@
+sequence,experimental_characteristics,modifications,is_mod,half_life_seconds
+XXGDWPC-NH2,plasma,"deamino, NH2",True,9000.0
+HSDGTFTSELSRLREGARLQRLLQGLV-NH2,plasma,"H, NH2",True,162000.0
+AC-SDAAVDTSSEITTKDLKEKKEVVEEAEN,plasma,"acetyl, OH",True,7200.0
+SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,plasma,"H, OH",True,64800.0
+HAEGTFTSDVSSYLEGQAAK(EX)EFIAWLVRGRG,plasma,"H, OH",True,46800.0
+KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,plasma,"H, NH2",True,172800.0
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS-NH2,plasma,"H, NH2",True,8640.0
+GGGCYFQNCPKG-NH2,plasma,"H, NH2",True,180000.0
+XKP,plasma,"4-phenylbutanoyl, OH",True,168120.0
+XHWSYXLRPG-NH2,plasma,"pyroglutamyl, NH2",True,10800.0
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,plasma,"H, OH",True,7200.0
+AC-XXXSYXLRPA-NH2,plasma,"acetyl, NH2",True,226080.0
+AC-XXXSYXLXPA-NH2,plasma,"acetyl, NH2",True,58320.0
+XXITNCPXG-NH2,plasma,"deamino, NH2",True,6120.0
+XHP,plasma,"1-methyl-2,6-dioxohexahydropyrimidyl, NH2",True,428400.0
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,plasma,"H, OH",True,6120.0
+XXIQNCPLG-NH2,plasma,"butyril , NH2",True,144000.0
+C(1)KGKGAKC(2)SRLMYDC(3)C(1)TGSC(2)RSGKC(3)-NH2,plasma,"H, NH2",True,16560.0
+XAXAX,plasma,"N-acetylmuramoyl, dipalmitoyl phosphatidyl ethanolamine",True,64800.0
+XXXWKXF,plasma,"cycle, cycle",True,43200.0
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPSKKKKKK-NH2,plasma,"H, NH2",True,10800.0
+AC-SYSXEHFRWGKPV-NH2,plasma,"acetyl, NH2",True,108000.0
+DXMGWMDF-NH2,plasma,"H, NH2",True,7200.0
+H-XEGTFTSDVSSYLEGQAAK-(XXEX)-EFIAWLVRGRG,plasma,"H, OH",True,604800.0
+AC-XDHFRWK,plasma,"acetyl, OH",True,9720.0
+GGLU-CG,plasma,"H, OH",True,36000.0
+XXT-XX(1)XLLXXT(1),plasma,"5-methyl-heptanoyl, cycle",True,18000.0
+XXXXVXAAXXX,plasma,"cycle, cycle",True,68400.0
+VPXXTXTXXPV,plasma,"2-amino-4,6-dimethyl-3-oxo-3H-phenoxazine-1,9-dicarbonyl , cycle",True,129600.0
+VCXVXX,plasma,"cycle, cycle",True,10800.0
+HSDGTFTSELSRLRDSARLQRLLQGLV-NH2,plasma,"H, NH2",True,97200.0
+XWX,plasma,"H, N-1-(formylamino)-2-(1H-indol-3-yl)ethyl]-acetate",True,14760.0
+XFCYWKTCT,plasma,"DOTA, OH",True,244800.0
+XXGGG,plasma,"benzoyl-deamino-Cys, OH",True,21672.0
+XFCYWKTCX,plasma,"DOTA, 2-aminobutane-1,3-diol",True,244800.0
+XFCYWKTCT,plasma,"DOTA, OH",True,45720.0
+XXXXVXAAXXX,plasma,"cycle, cycle",True,108000.0
+HSQGTFTSDYSKYLDXARAEEFVKWLEST,plasma,"H, OH",True,108000.0
+GXE,plasma,"H, OH",True,5400.0
+XXXX,plasma,"trifluoroacetyl, (R)-2-methyl-3-((R)-2-oxopyrrolidin-3-yl)propanenitrile",True,21780.0
+AC-KVERFDXXYXEYPXKXGX,plasma,"acetyl, OH",True,619200.0
+X-GXX,plasma,"1-(5-(2-methylpyrimidin-5-yl)-1H-indazol-3-yl)ethan-1-one, 6-bromopyridin-2-amine",True,28440.0
