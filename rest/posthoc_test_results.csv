@@ -1,0 +1,88 @@
+Feature,Comparison,P_value,n_asterisks
+freq_K ****,High_vs_Low,1.7017875879329765e-07,4
+freq_I ****,High_vs_Low,2.6093433706452914e-07,4
+Charge density ****,High_vs_Low,1.1814578132351563e-06,4
+freq_M ****,High_vs_Low,2.6991664676105853e-06,4
+Charge ****,High_vs_Low,7.5616853722255545e-06,4
+Isoelectric point ****,High_vs_Low,0.0006765950771265173,4
+freq_K ****,Mid_vs_Low,0.0007766332833874908,4
+freq_I ****,Mid_vs_Low,0.0008942087252963793,4
+freq_M ****,Mid_vs_Low,0.000983306459386341,4
+freq_V ***,Mid_vs_Low,0.004354076482045044,3
+freq_N **,High_vs_Low,0.0062968541924141854,2
+Instability index **,Mid_vs_Low,0.007161130742834869,2
+freq_A *,Mid_vs_Low,0.010491547237797657,1
+freq_R *,High_vs_Mid,0.011032277272600106,1
+freq_P *,Mid_vs_Low,0.012229087444349267,1
+Molecular Weight *,Mid_vs_Low,0.015635176235569676,1
+Charge density *,Mid_vs_Low,0.020009453012508772,1
+Boman index *,High_vs_Low,0.025394911036283645,1
+freq_Q *,High_vs_Low,0.02605965576372903,1
+Aliphatic index *,High_vs_Low,0.02794567919229974,1
+Charge *,High_vs_Mid,0.03317411016616258,1
+freq_E *,High_vs_Low,0.03908918223839395,1
+freq_H *,High_vs_Low,0.0409551194921041,1
+freq_L *,Mid_vs_Low,0.041078599946746064,1
+freq_C,Mid_vs_Low,0.05337694855353779,0
+freq_V,High_vs_Low,0.06104569037779013,0
+Hydrophobic ratio,High_vs_Mid,0.06266118446955363,0
+Charge density,High_vs_Mid,0.06348612651582321,0
+freq_F,High_vs_Mid,0.06598766068290894,0
+freq_D,High_vs_Low,0.06598789741442151,0
+Boman index,High_vs_Mid,0.06620494104456287,0
+freq_A,High_vs_Mid,0.06755539588930108,0
+freq_D,High_vs_Mid,0.07128038335553172,0
+freq_W,High_vs_Mid,0.08289250113165579,0
+Hydrophobic ratio,High_vs_Low,0.08494248859904563,0
+freq_W,Mid_vs_Low,0.08846803388636743,0
+freq_T,High_vs_Low,0.08943523141255325,0
+freq_H,Mid_vs_Low,0.1059499888073616,0
+Charge,Mid_vs_Low,0.11517284389555782,0
+freq_F,High_vs_Low,0.12156930412871575,0
+freq_S,Mid_vs_Low,0.12404923729018513,0
+Isoelectric point,High_vs_Mid,0.13319600126228262,0
+freq_E,Mid_vs_Low,0.13491487742902467,0
+freq_T,Mid_vs_Low,0.14892151487458732,0
+freq_Y,High_vs_Mid,0.14904478763030465,0
+freq_G,Mid_vs_Low,0.15143661001459735,0
+freq_Y,Mid_vs_Low,0.16095103128907357,0
+Aromaticity,Mid_vs_Low,0.16212901618349176,0
+Aromaticity,High_vs_Low,0.21845403872441854,0
+freq_P,High_vs_Low,0.22038151324280836,0
+freq_G,High_vs_Low,0.23645896316825524,0
+freq_K,High_vs_Mid,0.23664762554599938,0
+freq_R,High_vs_Low,0.23958195935907659,0
+Molecular Weight,High_vs_Mid,0.2409102331576956,0
+freq_L,High_vs_Low,0.27310849562106326,0
+freq_S,High_vs_Low,0.3019511318152297,0
+freq_I,High_vs_Mid,0.30518805556889234,0
+Isoelectric point,Mid_vs_Low,0.30693190358012,0
+Instability index,High_vs_Low,0.3166985385270124,0
+freq_C,High_vs_Mid,0.3304832453692274,0
+freq_N,Mid_vs_Low,0.3510426961849915,0
+freq_Q,Mid_vs_Low,0.35378922027175397,0
+freq_N,High_vs_Mid,0.37212961941015205,0
+freq_M,High_vs_Mid,0.4898124149733205,0
+Instability index,High_vs_Mid,0.48999865547229016,0
+Aliphatic index,Mid_vs_Low,0.5111551536948704,0
+Aliphatic index,High_vs_Mid,0.5275906798710669,0
+freq_R,Mid_vs_Low,0.6151666658093518,0
+freq_Q,High_vs_Mid,0.6326081487344593,0
+freq_P,High_vs_Mid,0.654256832164651,0
+freq_V,High_vs_Mid,0.7248699089708205,0
+freq_S,High_vs_Mid,0.7257596000154172,0
+freq_G,High_vs_Mid,0.759060195412758,0
+Molecular Weight,High_vs_Low,0.7597259253798654,0
+freq_L,High_vs_Mid,0.7626823508120304,0
+freq_C,High_vs_Low,0.7741458885849154,0
+Aromaticity,High_vs_Mid,0.7836902011378022,0
+freq_E,High_vs_Mid,0.8368387701718357,0
+freq_H,High_vs_Mid,0.8639820988391568,0
+freq_T,High_vs_Mid,0.8713736447250419,0
+freq_Y,High_vs_Low,0.8989418383510022,0
+freq_A,High_vs_Low,0.9194430535851771,0
+freq_F,Mid_vs_Low,0.9199229386990219,0
+freq_W,High_vs_Low,0.9549322932460989,0
+freq_D,Mid_vs_Low,0.9678310517078549,0
+Boman index,Mid_vs_Low,0.9742129550506252,0
+Hydrophobic ratio,Mid_vs_Low,0.9751901688112379,0
