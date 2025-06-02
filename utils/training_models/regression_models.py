@@ -819,39 +819,39 @@ class RegressionModels(PredictiveModel):
             n_jobs=n_jobs,
         )
 
-        def process_model(self, k=10, kfold=False, stratified=False):
-            scores = make_scores_for_regression()
+    def process_model(self, k=10, kfold=False, stratified=False):
+        scores = ["r2", "neg_mean_absolute_error", "neg_mean_squared_error"]
 
-            if not kfold and not stratified:
-                self.train_model()
+        if not kfold and not stratified:
+            self.train_model()
+            self.performances = {
+                "validation_metrics": self.eval_model(
+                    type_model="regx",
+                    y_true=self.y_val,
+                    y_pred=self.make_predictions_with_model(self.X_val),
+                )
+            }
+        else:
+            if kfold:
                 self.performances = {
-                    "validation_metrics": self.eval_model(
-                        type_model="regx",
-                        y_true=self.y_val,
-                        y_pred=self.make_predictions_with_model(self.X_val),
+                    "training_metrics": self.train_model_with_kfold(
+                        scores=scores, k=k, preffix="test_"
                     )
                 }
             else:
-                if kfold:
-                    self.performances = {
-                        "training_metrics": self.train_model_with_kfold(
-                            scores=scores, k=k, preffix="test_"
-                        )
-                    }
-                else:
-                    self.performances = {
-                        "training_metrics": self.train_model_with_kfold(
-                            scores=scores, k=k, stratified=True, preffix="test_"
-                        )
-                    }
+                self.performances = {
+                    "training_metrics": self.train_model_with_kfold(
+                        scores=scores, k=k, stratified=True, preffix="test_"
+                    )
+                }
 
-                self.train_model()
-                self.performances.update(
-                    {
-                        "validation_metrics": self.eval_model(
-                            y_true=self.y_val,
-                            y_pred=self.make_predictions_with_model(self.X_val),
-                            type_model="regx",
-                        )
-                    }
-                )
+            self.train_model()
+            self.performances.update(
+                {
+                    "validation_metrics": self.eval_model(
+                        y_true=self.y_val,
+                        y_pred=self.make_predictions_with_model(self.X_val),
+                        type_model="regx",
+                    )
+                }
+            )

@@ -1,4 +1,0 @@
-iteration,seed,sampling,Train_F1-score,Val_F1-score,Train_Recall,Val_Recall,Train_Precision,Val_Precision,Train_Accuracy,Val_Accuracy
-0,42,base,0.5305,0.5252,0.541,0.5437,0.5291,0.5199,0.541,0.5437
-0,42,undersampling,0.6225,0.6634,0.6232,0.6639,0.6318,0.6685,0.6232,0.6639
-0,42,oversampling,0.6965,0.7271,0.6964,0.7297,0.6979,0.7273,0.6964,0.7297

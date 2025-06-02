@@ -617,6 +617,7 @@ class ClassificationModels(PredictiveModel):
                     normalized_cm=normalized_cm,
                 )
             }
+            #print(self.make_predictions_with_model(self.X_val))
 
         else:
             if kfold:
@@ -642,4 +643,5 @@ class ClassificationModels(PredictiveModel):
                         normalized_cm=normalized_cm,
                     )
                 }
-            )
+                )
+            print(self.make_predictions_with_model(self.X_val))

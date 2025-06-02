@@ -24,13 +24,13 @@ class PredictiveModel(object):
     def train_model_with_kfold(self, k=10, scores=[], stratified=False, preffix=""):
         if not stratified:
             response_cv = cross_validate(
-                self.model, self.X_train, self.y_train, cv=k, scoring=scores
+                self.model, self.X_train, self.y_train, cv=k, scoring=scores, return_estimator=True
             )
         else:
             cv = StratifiedKFold(n_splits=k, shuffle=True, random_state=42)
 
             response_cv = cross_validate(
-                self.model, self.X_train, self.y_train, cv=cv, scoring=scores
+                self.model, self.X_train, self.y_train, cv=cv, scoring=scores, return_estimator=True
             )
 
         self.model.fit(self.X_train, self.y_train)
