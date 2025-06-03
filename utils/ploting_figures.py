@@ -27,85 +27,35 @@ class MakePlots(object):
         self.hue = hue
         self.sample = sample
     
-    def plot_by_type_encoder(self, name_fig=None):
-
+    def plot_by_stage(self, name_fig=None):
         if name_fig is None:
             name_fig = f"ml_classic_performance_by_type_encoder_{self.sample}.png"
 
-        fig = plt.figure(figsize=(13,13))
-        gs = GridSpec(2, 2, figure=fig)
+        fig = plt.figure(figsize=(15, 18))
+        gs = GridSpec(3, 2, figure=fig)
 
-        ax_data = fig.add_subplot(gs[0, 0])
-        sns.boxplot(ax=ax_data, data=self.dataset, y="Type-Encoder", x="Accuracy", hue=self.hue, fill=False, palette=self.colors)
-        
-        ax_data = fig.add_subplot(gs[0, 1])
-        sns.boxplot(ax=ax_data, data=self.dataset, y="Type-Encoder", x="Precision", hue=self.hue, fill=False, palette=self.colors)
-        
-        ax_data = fig.add_subplot(gs[1, 0])
-        sns.boxplot(ax=ax_data, data=self.dataset, y="Type-Encoder", x="Recall", hue=self.hue, fill=False, palette=self.colors)
-        
-        ax_data = fig.add_subplot(gs[1, 1])
-        sns.boxplot(ax=ax_data, data=self.dataset, y="Type-Encoder", x="F1", hue=self.hue, fill=False, palette=self.colors)
+        axes = [fig.add_subplot(gs[i, j]) for i in range(3) for j in range(2)]
+        metrics = ["Accuracy", "Precision", "Recall", "F1-score", "MCC", "ROC-AUC"]
 
-        plt.tight_layout()
-
-        plt.savefig(f"{self.path_export}/{name_fig}", dpi=300)
-    
-    def plot_by_encoder(self, name_fig=None):
-        
-        name_fig=f"ml_classic_performance_by_encoder_{self.sample}.png"
-        fig = plt.figure(figsize=(15,15))
-        gs = GridSpec(2, 2, figure=fig)
-
-        ax_data1 = fig.add_subplot(gs[0, 0])
-        ax_data2 = fig.add_subplot(gs[0, 1])
-        ax_data3 = fig.add_subplot(gs[1, 0])
-        ax_data4 = fig.add_subplot(gs[1, 1])
-
-        sns.boxplot(ax=ax_data1, data=self.dataset, y="Encoder", x="Accuracy", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data2, data=self.dataset, y="Encoder", x="Precision", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data3, data=self.dataset, y="Encoder", x="Recall", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data4, data=self.dataset, y="Encoder", x="F1", hue=self.hue, fill=False, palette=self.colors)
+        for ax, metric in zip(axes, metrics):
+            sns.boxplot(ax=ax, data=self.dataset, y="Stage", x=metric, hue=self.hue, fill=False, palette=self.colors)
+            ax.set_title(metric)
 
         plt.tight_layout()
         plt.savefig(f"{self.path_export}/{name_fig}", dpi=300)
     
     def plot_by_algorithm(self, name_fig=None):
-        name_fig=f"ml_classic_performance_by_algorithm_{self.sample}.png"
-        
-        fig = plt.figure(figsize=(15,15))
-        gs = GridSpec(2, 2, figure=fig)
+        name_fig = f"ml_classic_performance_by_algorithm_{self.sample}.png"
 
-        ax_data1 = fig.add_subplot(gs[0, 0])
-        ax_data2 = fig.add_subplot(gs[0, 1])
-        ax_data3 = fig.add_subplot(gs[1, 0])
-        ax_data4 = fig.add_subplot(gs[1, 1])
+        fig = plt.figure(figsize=(15, 18))
+        gs = GridSpec(3, 2, figure=fig)
 
-        sns.boxplot(ax=ax_data1, data=self.dataset, y="Algorithm", x="Accuracy", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data2, data=self.dataset, y="Algorithm", x="Precision", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data3, data=self.dataset, y="Algorithm", x="Recall", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data4, data=self.dataset, y="Algorithm", x="F1", hue=self.hue, fill=False, palette=self.colors)
+        axes = [fig.add_subplot(gs[i, j]) for i in range(3) for j in range(2)]
+        metrics = ["Accuracy", "Precision", "Recall", "F1-score", "MCC", "ROC-AUC"]
 
-        plt.tight_layout()
-        plt.savefig(f"{self.path_export}/{name_fig}", dpi=300)
-    
-    def plot_filter_by_nlp(self, name_fig=None):
-        name_fig=f"ml_classic_performance_filter_NLP_by_type_encoder_{self.sample}.png"
-
-        df_filter = self.dataset[self.dataset["Type-Encoder"] == "NLP-Based"]
-
-        fig = plt.figure(figsize=(15,15))
-        gs = GridSpec(2, 2, figure=fig)
-
-        ax_data1 = fig.add_subplot(gs[0, 0])
-        ax_data2 = fig.add_subplot(gs[0, 1])
-        ax_data3 = fig.add_subplot(gs[1, 0])
-        ax_data4 = fig.add_subplot(gs[1, 1])
-
-        sns.boxplot(ax=ax_data1, data=df_filter, y="Encoder", x="Accuracy", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data2, data=df_filter, y="Encoder", x="Precision", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data3, data=df_filter, y="Encoder", x="Recall", hue=self.hue, fill=False, palette=self.colors)
-        sns.boxplot(ax=ax_data4, data=df_filter, y="Encoder", x="F1", hue=self.hue, fill=False, palette=self.colors)
+        for ax, metric in zip(axes, metrics):
+            sns.boxplot(ax=ax, data=self.dataset, y="Algorithm", x=metric, hue=self.hue, fill=False, palette=self.colors)
+            ax.set_title(metric)
 
         plt.tight_layout()
         plt.savefig(f"{self.path_export}/{name_fig}", dpi=300)
