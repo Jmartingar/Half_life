@@ -29,7 +29,7 @@ class MakePlots(object):
     
     def plot_by_stage(self, name_fig=None):
         if name_fig is None:
-            name_fig = f"ml_classic_performance_by_type_encoder_{self.sample}.png"
+            name_fig = f"ml_classic_performance_by_Stage.png"
 
         fig = plt.figure(figsize=(15, 18))
         gs = GridSpec(3, 2, figure=fig)
