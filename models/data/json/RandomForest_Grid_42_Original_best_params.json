@@ -1,5 +1,0 @@
-{
-    "criterion": "gini",
-    "max_depth": 20,
-    "n_estimators": 100
-}

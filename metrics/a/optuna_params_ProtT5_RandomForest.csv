@@ -1,4 +1,0 @@
-iteration,seed,sampling,n_estimators,criterion,min_samples_split,min_samples_leaf,max_features
-0,42,base,3602,entropy,32,3,sqrt
-0,42,undersampling,4302,gini,42,24,sqrt
-0,42,oversampling,68,gini,43,7,sqrt
