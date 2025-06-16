@@ -1,0 +1,9 @@
+{
+    "colsample_bytree": 0.8,
+    "learning_rate": 0.01,
+    "max_depth": 3,
+    "n_estimators": 100,
+    "num_leaves": 15,
+    "objective": "regression",
+    "subsample": 0.8
+}
