@@ -1,5 +1,6 @@
 {
     "metric": "euclidean",
-    "n_neighbors": 7,
+    "n_neighbors": 3,
+    "p": 1,
     "weights": "uniform"
 }

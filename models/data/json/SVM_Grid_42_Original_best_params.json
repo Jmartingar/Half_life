@@ -1,5 +1,5 @@
 {
     "C": 0.1,
     "gamma": "scale",
-    "kernel": "linear"
+    "kernel": "rbf"
 }
