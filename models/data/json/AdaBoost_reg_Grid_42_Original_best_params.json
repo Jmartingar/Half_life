@@ -1,5 +1,0 @@
-{
-    "learning_rate": 0.01,
-    "loss": "exponential",
-    "n_estimators": 500
-}
